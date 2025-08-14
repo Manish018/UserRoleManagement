@@ -1,0 +1,22 @@
+﻿
+.account-container {
+    background-image: url('../images/backgroundimage.jpg'); /* Loads the image */
+    background-size: cover; /* Scales image to cover entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: repeat-y; /* Repeats vertically */
+    display: flex; /* Enables Flexbox */
+    align-items: center; /* Vertically centers children */
+    min-height: 100vh; /* Full viewport height */
+    padding: 2rem 0; /* Vertical padding */
+    justify-content:center;
+}
+
+.account-box {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    max-width: 500px;
+    width: 100%;
+    opacity: 0.9;
+}
