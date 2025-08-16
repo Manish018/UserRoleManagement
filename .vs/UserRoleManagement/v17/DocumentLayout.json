@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Sunny\\Projects\\UserRoleManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\viewmodel\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\services\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\services\\iemailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\viewmodel\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|c:\\sunny\\projects\\userrolemanagement\\userrolemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{014195E4-E25E-4CA6-BCF6-6A5B72F590C3}|UserRoleManagement\\UserRoleManagement.csproj|solutionrelative:userrolemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,19 +114,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cshtml",
-              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Home\\User.cshtml",
-              "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Home\\User.cshtml",
-              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Home\\User.cshtml",
-              "RelativeToolTip": "UserRoleManagement\\Views\\Home\\User.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EmailSent.cshtml",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\EmailSent.cshtml",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\EmailSent.cshtml",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\EmailSent.cshtml",
+              "RelativeToolTip": "UserRoleManagement\\Views\\Account\\EmailSent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T18:14:12.015Z"
+              "WhenOpened": "2025-08-15T13:41:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\ViewModel\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\ViewModel\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "UserRoleManagement\\ViewModel\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T13:39:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Services\\EmailServices.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Services\\EmailServices.cs",
+              "RelativeToolTip": "UserRoleManagement\\Services\\EmailServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:28:25.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "UserRoleManagement\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:41:53.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "UserRoleManagement\\appsettings.json",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\appsettings.json",
+              "RelativeToolTip": "UserRoleManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T11:28:33.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T13:31:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UserRoleManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:29:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailServices.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Services\\IEmailServices.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Services\\IEmailServices.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Services\\IEmailServices.cs",
+              "RelativeToolTip": "UserRoleManagement\\Services\\IEmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:41:04.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Home\\Admin.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Home\\Admin.cshtml",
@@ -120,25 +236,39 @@
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\ChangePassword.cshtml",
               "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\ChangePassword.cshtml",
               "RelativeToolTip": "UserRoleManagement\\Views\\Account\\ChangePassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-08T17:15:28.351Z"
+              "WhenOpened": "2025-08-08T17:15:28.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "UserRoleManagement\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "UserRoleManagement\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKIAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Program.cs",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Program.cs",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Program.cs",
+              "RelativeToolTip": "UserRoleManagement\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T11:29:54.08Z"
+              "WhenOpened": "2025-08-06T09:12:10.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Home\\User.cshtml",
+              "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Home\\User.cshtml",
+              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Home\\User.cshtml",
+              "RelativeToolTip": "UserRoleManagement\\Views\\Home\\User.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T18:14:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UserRoleManagement\\Controllers\\HomeController.cs",
@@ -150,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Shared\\_LoginPartial.cshtml",
@@ -158,25 +288,24 @@
               "RelativeToolTip": "UserRoleManagement\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-06T13:29:04.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T13:29:04.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "UserRoleManagement\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-06T13:42:38.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\Login.cshtml",
@@ -188,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "SeedServices.cs",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Services\\SeedServices.cs",
               "RelativeDocumentMoniker": "UserRoleManagement\\Services\\SeedServices.cs",
@@ -200,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\Register.cshtml",
@@ -212,19 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VerifyEmail.cshtml",
-              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
-              "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
-              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
-              "RelativeToolTip": "UserRoleManagement\\Views\\Account\\VerifyEmail.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-07T13:31:53.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "VerifyEmailViewModel.cs",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\ViewModel\\VerifyEmailViewModel.cs",
               "RelativeDocumentMoniker": "UserRoleManagement\\ViewModel\\VerifyEmailViewModel.cs",
@@ -236,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\ViewModel\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "UserRoleManagement\\ViewModel\\LoginViewModel.cs",
@@ -248,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\ViewModel\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "UserRoleManagement\\ViewModel\\RegisterViewModel.cs",
@@ -260,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "account.css",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\wwwroot\\css\\account.css",
               "RelativeDocumentMoniker": "UserRoleManagement\\wwwroot\\css\\account.css",
@@ -272,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "_AccountLayout.cshtml",
               "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Views\\Shared\\_AccountLayout.cshtml",
               "RelativeDocumentMoniker": "UserRoleManagement\\Views\\Shared\\_AccountLayout.cshtml",
@@ -281,18 +398,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-06T13:47:07.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Program.cs",
-              "RelativeDocumentMoniker": "UserRoleManagement\\Program.cs",
-              "ToolTip": "C:\\Sunny\\Projects\\UserRoleManagement\\UserRoleManagement\\Program.cs",
-              "RelativeToolTip": "UserRoleManagement\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:12:10.699Z"
             }
           ]
         }

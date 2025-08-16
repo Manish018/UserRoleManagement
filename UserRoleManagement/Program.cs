@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using UserRoleManagement.Data;
+using UserRoleManagement.Models;
 using UserRoleManagement.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,6 +22,10 @@ builder.Services.AddIdentity<Users, IdentityRole>(options => {
     options.SignIn.RequireConfirmedAccount = false;
 
 }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
+builder.Services.AddTransient<IEmailServices, EmailServices>();
+
 var app = builder.Build();
 
 //seed database from SeedServices

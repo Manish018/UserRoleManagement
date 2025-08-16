@@ -236,3 +236,4 @@ C:\Sunny\Projects\UserRoleManagement\UserRoleManagement\obj\Debug\net9.0\UserRol
 C:\Sunny\Projects\UserRoleManagement\UserRoleManagement\obj\Debug\net9.0\UserRoleManagement.genruntimeconfig.cache
 C:\Sunny\Projects\UserRoleManagement\UserRoleManagement\obj\Debug\net9.0\ref\UserRoleManagement.dll
 C:\Sunny\Projects\UserRoleManagement\UserRoleManagement\obj\Debug\net9.0\compressed\zgmof7g12l-6spyrznx51.gz
+C:\Sunny\Projects\UserRoleManagement\UserRoleManagement\obj\Debug\net9.0\UserRoleManagement.sourcelink.json

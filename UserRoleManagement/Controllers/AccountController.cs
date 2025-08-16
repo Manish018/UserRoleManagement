@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using UserRoleManagement.Data;
+using UserRoleManagement.Services;
 using UserRoleManagement.ViewModel;
 
 namespace UserRoleManagement.Controllers
@@ -10,12 +11,14 @@ namespace UserRoleManagement.Controllers
         private readonly SignInManager<Users> signInManager;
         private readonly UserManager<Users>  userManager;
         private readonly RoleManager<IdentityRole> roleManager;
+        private readonly IEmailServices emailServices;
 
-        public AccountController(SignInManager<Users> signInManager, UserManager<Users> userManager, RoleManager<IdentityRole> roleManager)
+        public AccountController(SignInManager<Users> signInManager, UserManager<Users> userManager, RoleManager<IdentityRole> roleManager, IEmailServices emailServices)
         {
             this.signInManager = signInManager;
             this.userManager = userManager;
             this.roleManager = roleManager;
+            this.emailServices = emailServices;
         }
 
         [HttpGet]
@@ -100,26 +103,34 @@ namespace UserRoleManagement.Controllers
             {
                 return View(model);
             }
-            var user = await userManager.FindByNameAsync(model.Email);
+            var user = await userManager.FindByEmailAsync(model.Email);
             if (user==null)
             {
                 ModelState.AddModelError("","User Not found");
                 return View(model);
             }
-            else
-            {
-                return RedirectToAction("ChangePassword", "Account", new { username = user.UserName });
-            }
+            var resetToken = await userManager.GeneratePasswordResetTokenAsync(user);
+            var resetLink = Url.Action("ChangePassword", "Account", new {email = model.Email, token= resetToken }, Request.Scheme);
+            var subject = "Reset Password";
+            var body = $"Please reset your password by clicking here: <a href='{resetLink}'>Reset Password</a>";
+
+            await emailServices.SendEmailAsync(model.Email, subject, body);
+
+            return RedirectToAction("EmailSent", "Account");
+                
         }
 
         [HttpGet]
-        public IActionResult ChangePassword(string username)
+        public IActionResult ChangePassword(string email, string token)
         {
-            if (string.IsNullOrEmpty(username))
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(token))
             {
                 return RedirectToAction("VerifyEmail", "Account");
 ;            }
-            return View(new ChangePasswordViewModel { Email = username});
+            var model = new ChangePasswordViewModel { Email = email, Token = token};
+
+            return View(model);
+
         }
 
         [HttpPost]
@@ -133,26 +144,19 @@ namespace UserRoleManagement.Controllers
             }
             var user = await userManager.FindByEmailAsync(model.Email);
 
-            if (user == null)
-            {
-                ModelState.AddModelError("", "User not found");
-                return View(model);
-            }
-            var result = await userManager.RemovePasswordAsync(user);
-            if (result.Succeeded)
-            {
-                result = await userManager.AddPasswordAsync(user, model.NewPassword);
-                TempData["SuccessMessage"] = "Password changed successfully!";
-                return RedirectToAction("Login", "Account");
+            if (user == null) { ModelState.AddModelError("","User Not found"); return View(model); }
+
+            var resetResult = await userManager.ResetPasswordAsync(user, model.Token, model.NewPassword);
+            if (!resetResult.Succeeded) {
+                foreach (var error in resetResult.Errors) {
+                    ModelState.AddModelError("", error.Description);
+                }
             }
             else
             {
-                foreach(var error in result.Errors)
-                {
-                    ModelState.AddModelError(string.Empty, error.Description);
-                }
-                return View(model);
+                return RedirectToAction("Login", "Account");
             }
+            return View(model);
         }
 
         [HttpPost]
@@ -161,6 +165,11 @@ namespace UserRoleManagement.Controllers
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult  EmailSent()
+        {
+            return View();
         }
     }
 }
